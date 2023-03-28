@@ -2,6 +2,5 @@ build
 lib
 target
 .rust
-Cargo.lock
 log
 .vscode
